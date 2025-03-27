@@ -6,5 +6,5 @@ We are the EDFM lab at the Technical University of Munich and we quantify change
 ## Quick links
 
 * iLand: the individual based landscape forest and disturbance model: https://iland-model.org (Github: https://github.com/edfm-tum/iland-model)
-* SVD: Scaling Vegetation Dynamics: an AI-based meta model of ecosystem dynamics: https://github.com/SVDmodel/SVD
+* SVD: Scaling Vegetation Dynamics: an AI-based meta model of ecosystem dynamics: https://github.com/edfm-tum/SVD
   
